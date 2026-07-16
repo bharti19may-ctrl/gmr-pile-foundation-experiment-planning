@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the associated manuscript and this repository."
+title: "Event-blocked strong-motion screening for GMR experiment planning"
+type: dataset
+authors:
+  - family-names: Bharti
+    given-names: Amrendra
+  - family-names: Choudhary
+    given-names: Shiva Shankar
+version: 1.0.0
+date-released: 2026-07-16
+repository-code: "https://github.com/bharti19may-ctrl/gmr-pile-foundation-experiment-planning"
+url: "https://github.com/bharti19may-ctrl/gmr-pile-foundation-experiment-planning"
+keywords:
+  - strong-motion records
+  - pile-soil interaction
+  - structural health monitoring
+  - GMR experiment planning
+  - event-blocked validation
